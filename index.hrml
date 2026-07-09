@@ -1,0 +1,240 @@
+```html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de confidentialité - Proverbes Pulaar</title>
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #1b5e20;
+            text-align: center;
+        }
+
+        h2 {
+            color: #2e7d32;
+            margin-top: 30px;
+        }
+
+        ul {
+            padding-left: 25px;
+        }
+
+        a {
+            color: #1565c0;
+            text-decoration: none;
+        }
+
+        .date {
+            text-align: center;
+            font-style: italic;
+            color: #666;
+        }
+
+        .footer {
+            margin-top: 40px;
+            text-align: center;
+            font-size: 14px;
+            color: #777;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Politique de confidentialité de Proverbes Pulaar</h1>
+
+<p class="date">Dernière mise à jour : 9 juillet 2026</p>
+
+<p>
+Merci d'utiliser <strong>Proverbes Pulaar</strong>. 
+La protection de votre vie privée est importante pour nous.
+Cette politique de confidentialité explique quelles informations peuvent être collectées
+lors de l'utilisation de l'application et comment elles sont utilisées.
+</p>
+
+
+<h2>1. Informations générales</h2>
+
+<p>
+L'application <strong>Proverbes Pulaar</strong> permet de consulter une collection
+de proverbes en langue pulaar. L'application est proposée gratuitement.
+</p>
+
+
+<h2>2. Données collectées</h2>
+
+<p>
+L'application ne demande pas la création d'un compte utilisateur et ne collecte pas
+directement d'informations personnelles telles que votre nom, votre adresse ou votre
+numéro de téléphone.
+</p>
+
+<p>
+Cependant, certains services tiers intégrés à l'application peuvent collecter
+automatiquement certaines informations techniques, notamment :
+</p>
+
+<ul>
+<li>Identifiants publicitaires de l'appareil (Advertising ID)</li>
+<li>Adresse IP</li>
+<li>Informations sur l'appareil (modèle, système d'exploitation, langue)</li>
+<li>Données de diagnostic et de performance</li>
+<li>Statistiques d'utilisation de l'application</li>
+</ul>
+
+
+<h2>3. Publicités</h2>
+
+<p>
+L'application utilise <strong>Google AdMob</strong> pour afficher des annonces publicitaires.
+</p>
+
+<p>
+Google peut utiliser des cookies, des identifiants publicitaires ou d'autres technologies
+similaires afin de personnaliser les annonces et mesurer leurs performances.
+</p>
+
+<p>
+Vous pouvez consulter la politique de confidentialité de Google ici :
+</p>
+
+<p>
+<a href="https://policies.google.com/privacy" target="_blank">
+https://policies.google.com/privacy
+</a>
+</p>
+
+
+<h2>4. Services Google</h2>
+
+<p>
+Selon la version de l'application, les services suivants peuvent être utilisés :
+</p>
+
+<ul>
+<li>Google AdMob</li>
+<li>Firebase Analytics</li>
+<li>Firebase Cloud Messaging (FCM)</li>
+</ul>
+
+<p>
+Ces services peuvent collecter des données conformément à leurs propres politiques
+de confidentialité.
+</p>
+
+
+<h2>5. Utilisation des informations</h2>
+
+<p>
+Les informations collectées servent notamment à :
+</p>
+
+<ul>
+<li>Améliorer les performances de l'application</li>
+<li>Analyser son utilisation</li>
+<li>Afficher des publicités pertinentes</li>
+<li>Corriger les erreurs techniques</li>
+<li>Envoyer des notifications (si cette fonctionnalité est utilisée)</li>
+</ul>
+
+
+<h2>6. Partage des informations</h2>
+
+<p>
+Nous ne vendons ni ne louons aucune donnée personnelle.
+</p>
+
+<p>
+Certaines informations peuvent être traitées par les fournisseurs de services tiers
+mentionnés ci-dessus dans le cadre du fonctionnement de l'application.
+</p>
+
+
+<h2>7. Sécurité</h2>
+
+<p>
+Nous mettons en œuvre des mesures raisonnables afin de protéger les informations
+traitées par l'application. Toutefois, aucune méthode de transmission ou de stockage
+sur Internet ne peut garantir une sécurité absolue.
+</p>
+
+
+<h2>8. Protection des enfants</h2>
+
+<p>
+L'application n'est pas destinée à collecter volontairement des informations personnelles
+concernant des enfants de moins de 13 ans.
+</p>
+
+<p>
+Si vous pensez qu'un enfant nous a fourni des informations personnelles, veuillez nous
+contacter afin que nous puissions prendre les mesures appropriées.
+</p>
+
+
+<h2>9. Vos droits</h2>
+
+<p>
+Selon la législation applicable dans votre pays, vous pouvez demander l'accès,
+la rectification ou la suppression des données vous concernant lorsqu'elles sont
+traitées par nos services ou par les fournisseurs tiers concernés.
+</p>
+
+
+<h2>10. Modifications de cette politique</h2>
+
+<p>
+Cette politique de confidentialité peut être mise à jour à tout moment.
+</p>
+
+<p>
+Toute modification sera publiée sur cette page avec une nouvelle date de mise à jour.
+</p>
+
+
+<h2>11. Contact</h2>
+
+<p>
+Pour toute question concernant cette politique de confidentialité, vous pouvez nous
+contacter à l'adresse suivante :
+</p>
+
+<p>
+<strong>E-mail :</strong>
+<a href="mailto:bahelhadjboubacar@gmail.com">
+votre-adresse@email.com
+</a>
+</p>
+
+
+<div class="footer">
+© 2026 Proverbes Pulaar - Tous droits réservés
+</div>
+
+</div>
+
+</body>
+</html>
+```
