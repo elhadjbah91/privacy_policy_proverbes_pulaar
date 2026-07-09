@@ -1,0 +1,2 @@
+# privacy_policy_proverbes_pulaar
+Politique de confidentialité Proverbes Pulaar
